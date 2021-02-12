@@ -60,3 +60,36 @@ Fork this repo and submit your application either via PR or email. Add build, te
 
 
 ## Happy coding !
+
+## My submission
+
+## Front-end application
+### Go into the project directory
+```
+cd frontend
+```
+### Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+
+## Back-end application
+### Go into the project directory
+```
+cd server
+```
+### Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn watch
+```

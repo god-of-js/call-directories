@@ -8,4 +8,4 @@ app.use(cors());
 app.use("/api/v1", require("./routes"));
 app.listen(3000, () => {
     console.log("App is listening on port 3000");
-})
+});
